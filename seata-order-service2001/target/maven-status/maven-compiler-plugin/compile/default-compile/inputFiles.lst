@@ -1,0 +1,11 @@
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\contorller\OrderController.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\SeataOrderMainApp2001.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\config\MyBatisConfig.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\service\StorageService.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\dao\OrderDao.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\service\AccountService.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\service\OrderService.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\service\impl\OrderServiceImpl.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\domain\Order.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\config\DataSourceProxyConfig.java
+E:\code\cloud2020\seata-order-service2001\src\main\java\com\lqh\springcloud\alibaba\domain\CommonResult.java
